@@ -1,0 +1,10 @@
+NativeWind - https://www.nativewind.dev/
+React Navigation - https://reactnavigation.org/
+react-native-heroicons - https://www.npmjs.com/package/react-native-heroicons
+@react-native-async-storage/async-storage - https://www.npmjs.com/package/@react-native-async-storage/async-storage
+react-native-responsive-screen - https://www.npmjs.com/package/react-native-responsive-screen
+react-native-masonry-list - https://www.npmjs.com/package/@react-native-seoul/masonry-list 
+react native reanimated - https://docs.swmansion.com/react-native-reanimated/
+React Native Youtube iframe - https://www.npmjs.com/package/react-native-youtube-iframe
+(for supporting React Native Youtube iframe)react-native-webview - https://www.npmjs.com/package/react-native-webview
+TheMealDB - https://www.themealdb.com/
